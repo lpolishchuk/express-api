@@ -1,5 +1,5 @@
 # Test
-Application that perform next steps:
+It's an application that perform next steps:
 1) Receive a set of expressions from specified endpoint via REST call
 2) Perform calculation of results for received set of expressions
 3) Send a correct results to specified endpoint via REST call
